@@ -8,3 +8,7 @@ La etapa final del proyecto "Biblioteca Triple" fue creada principalmente con la
 
 - HTML5 semántico
 - Flexbox
+
+================================================================================================================================================================
+Link to the GitHub site online:
+https://rixuk.github.io/web_project_library/
